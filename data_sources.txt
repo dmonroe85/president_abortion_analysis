@@ -1,0 +1,34 @@
+USPresidentsData.csv
+    us presidents
+    https://exploratory.io/data/kanaugust/US-Presidents-Data-Jhy7OdW1hE
+
+wiki_presiedents.csv
+    us presidents
+    https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States_by_time_in_office
+
+abortions.csv
+    abortions, cdc
+    https://en.wikipedia.org/wiki/Abortion_statistics_in_the_United_States
+
+MDG_Export_...csv
+    https://unstats.un.org/unsd/mdg/Data.aspx
+
+FS01AbortionintheUS.pdf
+    abortions, cdc an guttmacher
+    https://nrlc.org/uploads/factsheets/FS01AbortionintheUS.pdf
+
+datasets_52129_444308_nchs-births-and-general-fertility-rates-united-states.csv
+    birth and fertility
+    https://www.kaggle.com/cdc/nchs-births-and-birth-rates-data?select=nchs-births-and-general-fertility-rates-united-states.csv
+
+API_SP.DYN.CBRT.IN_DS2_en_csv_v2_1120906.zip
+    Birth rate per 1000 people
+    https://data.worldbank.org/indicator/SP.DYN.CBRT.IN?locations=US
+
+API_SP.POP.TOTL.FE.IN_DS2_en_csv_v2_1127928.zip
+    Female population
+    https://data.worldbank.org/indicator/SP.POP.TOTL.FE.IN?locations=US
+
+API_SP.POP.TOTL_DS2_en_csv_v2_1120881.zip
+    Total population
+    https://data.worldbank.org/indicator/SP.POP.TOTL?locations=US
